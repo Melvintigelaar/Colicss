@@ -1,0 +1,59 @@
+body{
+  width: 80%;
+  margin-left:10%;
+  border:solid;
+  background-color: #424242;
+}
+#wrapper{
+}
+.mySlides {
+display:none;
+min-width: 100%;
+max-width: 100%;
+min-height: 350px;
+max-height: 350px
+}
+#slideshow{
+border-bottom: solid;
+border-color:black;
+}
+
+#navbar{
+height:auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url(https://www.walldevil.com/wallpapers/a68/texrura-metal-deviantart-wallpaper-vegardhw-texture-linen-grey-textured-wallpapers.jpg);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #333;
+}
+
+
+
+
+
+footer{
+  height:auto;
+  background-image: url(https://www.walldevil.com/wallpapers/a68/texrura-metal-deviantart-wallpaper-vegardhw-texture-linen-grey-textured-wallpapers.jpg);
+}
+a{
+  text-decoration: none;
+  color:black;
+}

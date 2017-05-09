@@ -1,0 +1,87 @@
+body{
+  width: 80%;
+  margin-left:10%;
+  border:solid;
+  background-color: #424242;
+}
+#wrapper{
+}
+
+
+#navbar{
+height:auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url(https://www.walldevil.com/wallpapers/a68/texrura-metal-deviantart-wallpaper-vegardhw-texture-linen-grey-textured-wallpapers.jpg);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #333;
+}
+
+#naam{
+margin-left:100px;
+width:500px;
+border-radius:10px;
+height:50px;
+}
+#onderwerp{
+margin-left:65px;
+width:500px;
+border-radius:10px;
+height:50px;
+}
+#text{
+margin-left:60px;
+width:500px;
+border-radius:10px;
+height:50px;
+}
+#opmerkingen{
+margin-left:90px;
+width:500px;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+height:70px;
+}
+#verzenden{
+margin-left:146px;
+width:507px;
+height:30px;
+color:black;
+background-color: #eeeeee;
+}
+.contact{
+  margin:20px 0px 20px 10px;
+}
+.tekst{
+  font-family: "consolas";
+}
+
+
+
+
+
+footer{
+  height:auto;
+  background-image: url(https://www.walldevil.com/wallpapers/a68/texrura-metal-deviantart-wallpaper-vegardhw-texture-linen-grey-textured-wallpapers.jpg);
+}
+a{
+  text-decoration: none;
+  color:black;
+}

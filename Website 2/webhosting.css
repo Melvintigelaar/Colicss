@@ -1,0 +1,82 @@
+body{
+  width: 80%;
+  margin-left:10%;
+  border:solid;
+  background-color: #424242;
+}
+#wrapper{
+}
+
+
+#navbar{
+height:auto;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url(http://wallpaperil.com/wp-content/uploads/ktz/light-grey-wallpaper-30uyefmtg8bbaj0e8a7hu2.jpg);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #333;
+}
+
+#pakketgoud{
+  width:15%;
+  background-color: white;
+  text-align:center;
+  display: inline-block;
+}
+#pakketten{
+text-align: justify;
+margin-top:20px;
+margin-bottom:20px;
+}
+.brons{
+margin-left:11%;
+margin=right:5.5%;
+}
+.silver{
+margin-left:5.5%;
+margin=right:5.5%;
+}
+.goud{
+margin-left:5.5%;
+margin=right:5.5%;
+}
+.platinum{
+margin-left:5.5%;
+margin=right:5.5%;
+}
+#button{
+width:80%;
+margin-left:10%;
+margin-top:10px;
+background-color:yellow;
+margin-bottom:5px;
+}
+
+
+
+footer{
+  height:auto;
+  background-image: url(http://wallpaperil.com/wp-content/uploads/ktz/light-grey-wallpaper-30uyefmtg8bbaj0e8a7hu2.jpg);
+}
+a{
+  text-decoration: none;
+  color:black;
+}
