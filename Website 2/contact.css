@@ -5,11 +5,13 @@ body{
   background-color: #424242;
 }
 #wrapper{
+    background-image: url("afbeeldingen/grey.jpg");
 }
 
 
 #navbar{
 height:auto;
+border-bottom:solid;
 }
 ul {
     list-style-type: none;
@@ -68,11 +70,15 @@ background-color: #eeeeee;
 }
 .contact{
   margin:20px 0px 20px 10px;
+  float:left;
 }
 .tekst{
   font-family: "consolas";
 }
-
+.twitter-timeline{
+  margin-left:20px;
+  padding:10px 0px 10px 0px;
+}
 
 
 
@@ -80,6 +86,8 @@ background-color: #eeeeee;
 footer{
   height:auto;
   background-image: url(https://www.walldevil.com/wallpapers/a68/texrura-metal-deviantart-wallpaper-vegardhw-texture-linen-grey-textured-wallpapers.jpg);
+  clear:both;
+  border-top:solid;
 }
 a{
   text-decoration: none;

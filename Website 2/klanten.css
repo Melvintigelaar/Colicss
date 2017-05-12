@@ -5,6 +5,7 @@ body{
   background-color: #424242;
 }
 #wrapper{
+  background-image: url("afbeeldingen/grey.jpg");
 }
 #navbar{
 height:auto;
@@ -47,6 +48,21 @@ width:48%;
 float: right;
 text-align:center;
 color:#eeeeee;
+}
+
+.tekst{
+  width:175px;
+  height:120px;
+  border:solid;
+  margin-top:220px;
+  margin-left:20px;
+}
+.tekst2{
+  width:175px;
+  height:120px;
+  border:solid;
+  margin-left:205px;
+  margin-top:-125px;
 }
 
 

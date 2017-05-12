@@ -19,6 +19,7 @@ body{
   background-color: #424242;
 }
 #wrapper{
+  background-image: url("afbeeldingen/grey.jpg");
 }
 #navbar{
 height:auto;
@@ -100,7 +101,7 @@ margin-bottom:5px;
 #web{
   font-family: "Times New Roman", Times, serif;
   text-align: center;
-  color:#eeeeee;
+  color:black;
   margin-bottom:10px;
 }
 
